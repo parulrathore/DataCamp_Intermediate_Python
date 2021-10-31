@@ -1,3 +1,3 @@
-# DataCamp_Intermediate_Python
+# DataCamp Intermediate Python
 
 Contains solutions for Data Camp Intermediate Python Course
